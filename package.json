@@ -30,7 +30,8 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "pg": "3.*",
-    "bluebird": "2.*"
+    "bluebird": "2.*",
+    "fdbsql": "git+https://git@github.com/FoundationDB/sql-layer-adapter-nodejs.git",
   },
   "devDependencies": {
     "mocha": "*"
